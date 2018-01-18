@@ -1,0 +1,14 @@
+.display-3 {
+	text-align: center;
+}
+
+.lead{
+	text-align: center;
+}
+
+.jumbotron {
+    background-image: url(../images/artscenter.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
